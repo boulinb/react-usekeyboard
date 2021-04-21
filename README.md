@@ -1,6 +1,6 @@
 # UseKeyboardEvent
 
-##### Recovery of keys used by the user
+##### Listener of keyboard keys
 
 ### Installation
 
