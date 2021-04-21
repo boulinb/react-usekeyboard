@@ -1,0 +1,24 @@
+{
+  "name": "react-usekeyboard",
+  "version": "1.0.0",
+  "description": "Listener of keyboard keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boulinb/react-usekeyboard.git",
+  },
+  "files": ["lib/**/*"],
+  "author": "Dydydia <benjamin.boulin.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boulinb/react-usekeyboard/issues"
+  },
+  "homepage": "https://github.com/boulinb/react-usekeyboard#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
