@@ -1,5 +1,5 @@
 {
-  "name": "react-usekeyboard",
+  "name": "react-usekeyboardevent",
   "version": "1.0.0",
   "description": "Listener of keyboard keys",
   "main": "index.js",
@@ -9,9 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boulinb/react-usekeyboard.git",
+    "url": "git+https://github.com/boulinb/react-usekeyboard.git"
   },
   "files": ["lib/**/*"],
+  "types": "./lib/index.d.ts",
   "author": "Dydydia <benjamin.boulin.dev@gmail.com>",
   "license": "ISC",
   "bugs": {
